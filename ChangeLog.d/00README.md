@@ -1,3 +1,4 @@
+///test
 # Pending changelog entry directory
 
 This directory contains changelog entries that have not yet been merged
